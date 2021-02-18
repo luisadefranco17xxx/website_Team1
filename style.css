@@ -1,5 +1,10 @@
+html {
+heigth: 100%;
+}
+
 body {
 background-color: #c0e89c;
+heigth: 100%;
 }
 
 h1 {
