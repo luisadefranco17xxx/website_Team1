@@ -11,6 +11,11 @@ h1 {
 text-align: center;
 }
 
+h6 {
+font-size: 15px;
+font-width: bold;
+}
+
 .content {
 padding-left: 60px;
 }
