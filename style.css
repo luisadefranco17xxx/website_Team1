@@ -43,3 +43,7 @@ color: brown;
 a:hover {
 color: #040000;
 }
+
+.beschreibung {
+vertical-align: text-top;
+}
