@@ -32,5 +32,9 @@ opacity: 70%;
 }
 
 a {
-font-color: brown
+color: brown;
+}
+
+a:hover {
+color: #04000;
 }
